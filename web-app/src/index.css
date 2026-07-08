@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-darkemerald: #06140f;
+  --color-neonmint: #00ff87;
+}
+
+/* Ensure the app content loads with high visibility text defaults */
+body {
+  background-color: #06140f;
+  color: #f1f5f9;
+}
